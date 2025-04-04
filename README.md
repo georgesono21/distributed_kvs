@@ -20,6 +20,8 @@
 
 ## challenges i am probably going to run into
 - many many race conditions
+- trying to get them to commmunicate in their own networks
+- hopefully that's it!
 
 ## we shall do this one step at a time, and i will make a roadmap of how i will do this!
 
@@ -30,3 +32,10 @@
 ^ each of these will be their own branch
 
 ## now, choice of language... typescript! 
+because i can...
+
+## API of the kvs
+
+- create key
+- delete key
+- update key's value
